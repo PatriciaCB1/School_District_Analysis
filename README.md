@@ -41,7 +41,7 @@ THS Performance Relative to Other Schools
 
 
 ### Replacing the grades for the 9th grade students for reading and math with nAn had the following impacts:
-  - Math and reading scores by grade:  The math and reading scores by grade 
+  - Math and reading scores by grade:  The math and reading scores by grade were not impacted, except for THS 9th grade scores appearing as nan, confirming our code and removal of those grades had the desired impact. 
   
   Math Scores By Grade
   
