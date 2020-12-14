@@ -2,7 +2,7 @@
 
 ## Overview of the school district analysis: 
   
-Originally we undertook this analysis to deep-dive into school district data and to report on any interesting findings in terms of co-relations between certain school attributes and their impact on outcomes.  We combined data at the school level from the school board with student level data from the schools.  Throught our process we cleaned the data, merged the school and student data files and organized the data into various dataframes to analyze various attributes such as:  School Type, number of students, reading and math outcomes and overall pass counts and rates based on students achieving >= 70% in both math and reading.  We further explored the impact number of students, type and budget within a school had on the outcomes.
+Originally we had undertaken this analysis to deep-dive into school district data and to report on any interesting findings in terms of co-relations between certain school attributes and their impact on outcomes.  We combined data at the school level from the school board with student level data from the schools.  Throught our process we cleaned the data, merged the school and student data files and organized the data into various dataframes to analyze various attributes such as:  School Type, number of students, reading and math outcomes and overall pass counts and rates based on students achieving >= 70% in both math and reading.  We further explored the impact number of students, type and budget within a school had on the outcomes.
 
 On completion of our analysis, we were advised the students_complete.csv file showed some evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appeared to have been altered. Although the school board does not know the full extent of the academic dishonesty, they wanted to uphold state-testing standards. As a result we were asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. It has further been requested that we repeat the school district analysis and write summary report to describe how these changes affected the overall analysis.
 
@@ -20,7 +20,7 @@ Revised District Summary
 ![Revised_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Revised_District%20Summary.png)
 
 ### How is the school summary affected?
-- The only numbers in the school summary that were impacted were the numbers for Thomas High School.
+- Not surprisingly, the only numbers in the school summary that were impacted were the numbers for Thomas High School.
 - None of the other schools were impacted by our edits to the data => this means that our updates / edits were successful and the code executed properly.
 - Import to note, in our school summary we removed all 9th grade scores for THS from the counts and % passed for math, reading and overall but we did not remove the student count of 461 from our Total Students nor did we revise our calculations for Average Math Score or Average Reading Score.  
 - The following significant differences were noted for Thomas High School:
