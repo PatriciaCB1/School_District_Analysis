@@ -12,8 +12,12 @@ On completion of our analysis, we were advised the students_complete.csv file sh
  - The number of total students reduced from 39,170 to 38,709 - due to the 461 student records removed for Thomas High School.
  - While overall metrics were impacted, the impact was minimal - no changes >= 1% so not significant enough to report.
  
+ Original District Summary
+ 
 ![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District%20Summary.png)
 
+Revised District Summart
+![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District%20Summary.png)
 
 ### How is the school summary affected?
 - The only numbers in the school summary that were impacted were the numbers for Thomas high school.
