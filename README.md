@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis: 
   
 Originally we undertook this analysis to deep-dive into school district data and to report on any interesting findings in terms of co-relations between certain school attributes and their impact on outcomes.  We combined data at the school level from the district school board with student level data from the schools.  Throught our process we cleaned the data, merged the school and student data files and organized the data into various dataframes to analyze the various attributes such as:  School Type, number of students, reading and math outcomes and overall pass counts and rates based on based on students achieving >= 70% in both math and reading.  We further explored the impact number of students within a school had on the success of students and also the role whether budget or type potentially inpacted school outcomes.
 
@@ -16,7 +16,7 @@ On completion of our analysis, we were advised the students_complete.csv file sh
  
 ![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District%20Summary.png)
 
-Revised District Summart
+Revised District Summary
 ![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Revised_District%20Summary.png)
 
 ### How is the school summary affected?
