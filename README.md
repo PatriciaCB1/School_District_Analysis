@@ -9,7 +9,7 @@ On completion of our analysis, we were advised the students_complete.csv file sh
 Resources:
   ## Resources
   - Data Sources:  schools_complete.csv, students_complete.csv, clean_students.csv
-  - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6, 
+  - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6 
   - Using:  Pandas, NumPy
 
 
