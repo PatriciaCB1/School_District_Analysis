@@ -29,6 +29,8 @@ Revised District Summary
   - % Overall Passing: increased from 65.1% to 90.6% 
   
   This was the result of only taking into consideration the passing percentages for grades 10-12.  Including the 9th grade scores had negatively impacted these measures, likely due to NaN counting as zero and the new student count totals were not effectively reflected. Conversely, by removing the 9th grade scores we are likely artificially inflating our passing %s.  I would suggest assigning the appropriate grades to the grade 9 students (even if grade is failing due to dishonest academic activity) so we are working with complete data and reporting more accurately.  This did not impact the schools overall "ranking" so may not have a material impact.  Would like to explore the data both ways to be confident though.
+  
+![School_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/School_Summary_DF.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Replacing the ninth graders' math and reading scores actually had a positive effect on Thomas High School's performance relative to the other schools.  Although, in following directions to the letter, our actions removed the 9th grade Thomas High School Students from the District Summary but not from the school summary which meant that the overall number of students changed in the district summary but not in the student summary (i.e. we removed their grades for reading and math but left them in the student count as we should have).
