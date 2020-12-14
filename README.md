@@ -6,6 +6,13 @@ Originally we had undertaken this analysis to deep-dive into school district dat
 
 On completion of our analysis, we were advised the students_complete.csv file showed some evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appeared to have been altered. Although the school board does not know the full extent of the academic dishonesty, they wanted to uphold state-testing standards. As a result we were asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. It has further been requested that we repeat the school district analysis and write summary report to describe how these changes affected the overall analysis.
 
+Resources:
+  ## Resources
+  - Data Sources:  schools_complete.csv, students_complete.csv, clean_students.csv
+  - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6, 
+  - Using:  Pandas, NumPy
+
+
 ## Results: 
 
 ### How is the district summary affected?
