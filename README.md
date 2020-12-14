@@ -34,7 +34,11 @@ Revised District Summary
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Replacing the ninth graders' math and reading scores actually had a positive effect on Thomas High School's performance relative to the other schools.  Although, in following directions to the letter, our actions removed the 9th grade Thomas High School Students from the District Summary but not from the school summary which meant that the overall number of students changed in the district summary but not in the student summary (i.e. we removed their grades for reading and math but left them in the student count as we should have).
-- Thomas High School saw a decline small decline in % Overall Passing but Thomas High School retained its position as #2 in Top Schools. 
+- Thomas High School saw a decline small decline in % Overall Passing but Thomas High School retained its position as #2 in Top Schools.
+
+THS Performance Relative to Other Schools
+![THS_Performance_Relative_To_Other_Schools](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/THS_Performance_Relative_To_Other_Schools.png)
+
 
 ### Replacing the grades for the 9th grade students for reading and math with nAn had the following impacts:
   - Math and reading scores by grade:  The math and reading scores by grade 
