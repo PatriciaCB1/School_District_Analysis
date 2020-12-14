@@ -14,10 +14,10 @@ On completion of our analysis, we were advised the students_complete.csv file sh
  
  Original District Summary
  
-![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District%20Summary.png)
+![Original_District_Summary1](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District_Summary1.png)
 
 Revised District Summary
-![Original_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Revised_District%20Summary.png)
+![Revised_District_Summary](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Revised_District%20Summary.png)
 
 ### How is the school summary affected?
 - The only numbers in the school summary that were impacted were the numbers for Thomas high school.
