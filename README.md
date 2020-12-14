@@ -44,10 +44,16 @@ THS Performance Relative to Other Schools
   - Math and reading scores by grade:  The math and reading scores by grade 
   
   Math Scores By Grade
+  
+  
   ![Math_scores_by_grade](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Math_Scores_By%20Grade.png) 
   
   Reading Scores By Grade
+  
+  
   ![Reading_scores_by_grade](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Reading_Scores_By_Grade.png)
+  
+  
   - Scores by school spending were not at all impacted 
   - Scores by school size were not impacted because we did not remove the actual students just their grades and the change in overall grades for the size band THS                  sits in was not significantly impacted by the removed grades.
   - Scores by school type were not at all impacted.
