@@ -74,7 +74,7 @@ THS Performance Relative to Other Schools
   
   ![School_Size](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/School_Size.png) 
   
-  - Scores by school type were not at all impacted.  As per our initial analysis, Charter schools significantly out perform District (% Overall Pass Charter 90% to % Overall Pass District 54%).  Even with lower spend per student (normalizing for the fact that District Schools typically have higher student counts within our data) Charter schools still outperform district schools.
+  - Scores by school type were not at all impacted.  As per our initial analysis, Charter schools significantly outperform District (% Overall Pass Charter 90% to % Overall Pass District 54%).  Even with lower spend per student (normalizing for the fact that District Schools typically have higher student counts within our data) Charter schools still outperform district schools.
   
   Performance Detailing Type & Spend
   
